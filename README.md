@@ -49,6 +49,6 @@ Upon success, you can get an endpoints address from the output, say, https://akc
 Visiting https://akcpvzfy99.execute-api.us-east-2.amazonaws.com/dev/resize-image?f=lie3.png&w=700&q=60
 
 ## Reference
-https://read.acloud.guru/serverless-image-optimization-and-delivery-510b6c311fe5
-https://github.com/andreasonny83/serverless-image-rendering
-https://github.com/lambci/docker-lambda
+* https://read.acloud.guru/serverless-image-optimization-and-delivery-510b6c311fe5
+* https://github.com/andreasonny83/serverless-image-rendering
+* https://github.com/lambci/docker-lambda
