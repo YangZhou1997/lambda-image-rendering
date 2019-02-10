@@ -33,7 +33,7 @@ cp serverless.sample.yml serverless.yml
 ```
 
 ### Setting AWS credentials file
-Please following this [blog](https://read.acloud.guru/serverless-image-optimization-and-delivery-510b6c311fe5) or [this](https://serverless.com/framework/docs/providers/aws/guide/credentials/) to set the AWS credentials file. 
+Please following this [blog](https://read.acloud.guru/serverless-image-optimization-and-delivery-510b6c311fe5) or [doc](https://serverless.com/framework/docs/providers/aws/guide/credentials/) to set the AWS credentials file. 
 ```
 export AWS_ACCESS_KEY_ID=<your-key-here>
 export AWS_SECRET_ACCESS_KEY=<your-secret-key-here>
